@@ -1,0 +1,5 @@
+docling
+langchain 
+langchain-community 
+chromadb 
+sentence-transformers
