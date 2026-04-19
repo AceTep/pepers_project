@@ -4,3 +4,5 @@ parsed/
 src/__pycache__/
 src/__init__.py
 IMPLEMENTATION_SUMMARY.md
+chunks/
+embeddings/
